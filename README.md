@@ -14,12 +14,12 @@ A machine learning–powered system that recommends the most suitable crop based
 ---
 
 ## 📁 Project Structure
-app.py
-train_model.py
-Crop_Recommendation_System.ipynb
-Crop_recommendation.csv
-static/
-templates/
+- app.py
+- train_model.py
+- Crop_Recommendation_System.ipynb
+- Crop_recommendation.csv
+- static/
+- templates/
 
 yaml
 Copy code
